@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.version = "4.0.0.alpha4"
 
   s.required_rubygems_version = Gem::Requirement.new("> 1.3.1") if s.respond_to? :required_rubygems_version=
-  s.authors = ["Ho-Sheng Hsiao", "Carlos Brando", "Jos\u{e9} Valim"]
+  s.authors = ["Ho-Sheng Hsiao", "Carlos Brando", "Jos Valim"]
   s.date = "2012-01-17"
   s.description = "Remarkable: a framework for rspec matchers and macros, with support for I18n."
   s.email = ["hosh@sparkfly.com", "eduardobrando@gmail.com", "jose.valim@gmail.com"]
